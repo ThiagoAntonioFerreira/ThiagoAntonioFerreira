@@ -10,7 +10,19 @@
     </td>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=angular" alt="icon" width="65" height="65" />
-      <br>C#
+      <br>Angular
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="65" height="65" />
+      <br>Node
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="65" height="65" />
+      <br>Node
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rabbitmq" alt="icon" width="65" height="65" />
+      <br>RabbitMQ
     </td>
  </tr>
 </table>
