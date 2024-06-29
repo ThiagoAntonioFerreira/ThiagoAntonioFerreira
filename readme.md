@@ -102,10 +102,7 @@
         <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
       <br>RabbitMQ
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
-      <br>sentry
-    </td>
+    
     <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
       <br>Celery
