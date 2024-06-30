@@ -24,5 +24,9 @@
         <img src="https://skillicons.dev/icons?i=rabbitmq" alt="icon" width="65" height="65" />
       <br>RabbitMQ
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
  </tr>
 </table>
