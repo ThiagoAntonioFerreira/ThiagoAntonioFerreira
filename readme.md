@@ -56,27 +56,5 @@
       <br>Bootstrap
     </td>
  </tr>
-  <tr>
-      <td align="center" width="96">  
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="bootstrap" />
-      <br>MySql
-      </td>
-
-    <td align="center" width="96">     
-    <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="bootstrap" />
-      <br>PostGres
-      </td>
-
-      <td align="center" width="96">      
-      </td>
-
-      <td align="center" width="96">      
-      </td>
-
-      <td align="center" width="96">      
-      </td>
-
-      <td align="center" width="96">      
-      </td>
-  </tr>
+  
 </table>
