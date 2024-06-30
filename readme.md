@@ -13,8 +13,8 @@
       <br>Angular
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="65" height="65" />
-      <br>Node
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" alt="icon" width="65" height="65" />
+      <br>Blazor
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="65" height="65" />
