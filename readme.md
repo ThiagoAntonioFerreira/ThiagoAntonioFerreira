@@ -73,9 +73,6 @@
       <br>SqlServer
     </td>
 
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48" height="48" alt="bootstrap" />
-      <br>Oracle
-    </td>
+   
   </tr>
 </table>
